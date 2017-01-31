@@ -14,6 +14,7 @@
 		A7B01C9B1E413ADE0074E624 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7B01C991E413ADE0074E624 /* LaunchScreen.storyboard */; };
 		A7B01CA61E413ADE0074E624 /* UIMotionEffectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7B01CA51E413ADE0074E624 /* UIMotionEffectTests.swift */; };
 		A7B01CB11E413ADE0074E624 /* UIMotionEffectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7B01CB01E413ADE0074E624 /* UIMotionEffectUITests.swift */; };
+		A7B01CBF1E4140EC0074E624 /* chinchilla.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A7B01CBE1E4140EC0074E624 /* chinchilla.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		A7B01CAC1E413ADE0074E624 /* UIMotionEffectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UIMotionEffectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7B01CB01E413ADE0074E624 /* UIMotionEffectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIMotionEffectUITests.swift; sourceTree = "<group>"; };
 		A7B01CB21E413ADE0074E624 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A7B01CBE1E4140EC0074E624 /* chinchilla.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chinchilla.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				A7B01C921E413ADE0074E624 /* ViewController.swift */,
 				A7B01C941E413ADE0074E624 /* Main.storyboard */,
 				A7B01C971E413ADE0074E624 /* Assets.xcassets */,
+				A7B01CBE1E4140EC0074E624 /* chinchilla.jpg */,
 				A7B01C991E413ADE0074E624 /* LaunchScreen.storyboard */,
 				A7B01C9C1E413ADE0074E624 /* Info.plist */,
 			);
@@ -235,6 +238,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A7B01CBF1E4140EC0074E624 /* chinchilla.jpg in Resources */,
 				A7B01C9B1E413ADE0074E624 /* LaunchScreen.storyboard in Resources */,
 				A7B01C981E413ADE0074E624 /* Assets.xcassets in Resources */,
 				A7B01C961E413ADE0074E624 /* Main.storyboard in Resources */,
